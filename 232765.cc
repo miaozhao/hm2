@@ -1,6 +1,6 @@
 /* homework1 in C++ which
  * using to calculate BMR */
-
+//what have been done
 #include "declare.hh"
 using namespace std;
 
