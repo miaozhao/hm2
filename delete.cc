@@ -1,6 +1,7 @@
 #include<fstream>
 #include<iostream>
 #include<string>
+//what
 using namespace std;
 string delet(string &s,int i);                           //该函数用于删除指定元素 
                                                          //s参数为目标字符串  i为操作位置 
