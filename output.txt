@@ -1,0 +1,47 @@
+**************************
+ Name of Employee: John
+
+ BMR is 1574.4 The number of chocolate bars that should be consumed to
+ maintain one's weight for female of the specified height(150), weight
+ (75), and age (23) is 6.84522
+
+ Increase in BMR percentage: 40%
+
+ New BMR value: 2204.16
+
+ Number of chocolates based on new BMR value: 9.5833
+
+**************************
+**************************
+ Name of Employee: bruce
+
+ BMR is 2317.1 The number of chocolate bars that should be consumed to
+ maintain one's weight for male of the specified height(150), weight
+ (75), and age (23) is 10.0743
+
+ Increase in BMR percentage: 40%
+
+ New BMR value: 3243.94
+
+ Number of chocolates based on new BMR value: 14.1041
+
+**************************
+**************************
+ Name of Employee: alice
+
+ Error: Incorrect weight 
+**************************
+**************************
+ Name of Employee: john
+
+ BMR is 1574.4 The number of chocolate bars that should be consumed to
+ maintain one's weight for female of the specified height(150), weight
+ (75), and age (23) is 6.84522
+
+ Increase in BMR percentage: 40%
+
+ New BMR value: 2204.16
+
+ Number of chocolates based on new BMR value: 9.5833
+
+**************************
